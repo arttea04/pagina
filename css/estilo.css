@@ -1,0 +1,38 @@
+header {
+    background-color: aquamarine;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-end;
+}
+
+li {
+    list-style-type: none;
+}
+
+button {
+    border-radius: 60px;
+    cursor: pointer;
+    background-color: #020607;
+    padding: 10px 20px;
+    border: none;
+    color: white;
+}
+
+main {
+    background-color: #40c3e4;
+    border-radius: 30px;
+    padding: 20px
+}
+.img-central{
+    position: relative;
+    width: 100%;
+    display: block;
+    justify-content: center;
+}
+.texto-img{
+    
+}
